@@ -9,7 +9,7 @@ This is a place to find talks/presentations that I have given over the years and
 
 ## Clinical trials related presentations
 
-- Indications and Challenges of individual patient data meta analyses, TROG ASM, 2023 [PDF]()
+- Indications and Challenges of individual patient data meta analyses, TROG ASM, 2023 [PDF](https://github.com/kristyrobledo/talks/blob/master/TROG_ASM_IPDMA_JUNE23.pdf)
 
 - Predicting diabetes in high risk men, STAToSPHERE, 2022 [https://kristyrobledo.github.io/riskscore_talk/](https://kristyrobledo.github.io/riskscore_talk/)
 
