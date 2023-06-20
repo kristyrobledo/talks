@@ -4,7 +4,7 @@ This is a place to find talks/presentations that I have given over the years and
 
 ## Semi-parametric methods (statistical methods)
 
-- Young statisticians conference; September 2017 [PDF]
+- Young statisticians conference; September 2017 [PDF](https://github.com/kristyrobledo/talks/blob/master/Semiparametric%20variance_Youngstats_Sept17.pdf)
 - JP Douglas awards NSW; November 2017 [PDF](https://github.com/kristyrobledo/talks/blob/master/NewMethodSemiparametricVariance_JPDouglas_Nov2016.pdf)
 
 ## Clinical trials related presentations
